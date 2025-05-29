@@ -1,0 +1,8 @@
+This is a prompt fed to OpenAI o3 with the input image as in Fig. 8.
+
+----------
+
+This is a picture of a laboratory classroom with a learner performing chemical experiments. I want to analyze it for educational purposes.
+1. Could you tell me what do you observe in the picture?
+2. How do you assess the laboratory classroom resources and environments?
+3. What are possible lab safety rules that are kept or neglected by the learner in the picture?
