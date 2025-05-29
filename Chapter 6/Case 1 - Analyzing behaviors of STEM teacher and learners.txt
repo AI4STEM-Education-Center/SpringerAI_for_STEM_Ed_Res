@@ -1,0 +1,8 @@
+This is a prompt fed to OpenAI o3 with the input image as in Fig. 6.
+
+----------
+
+This is a picture of a lecture. I want to analyze it for educational purposes.
+1. Could you explain what the picture shows?
+2. Could you tell me what the lecturer tries to explain to the audience?
+3. Could you let me know how is the interaction between the lecturer and the audience? Is there any way to improve the interaction?
