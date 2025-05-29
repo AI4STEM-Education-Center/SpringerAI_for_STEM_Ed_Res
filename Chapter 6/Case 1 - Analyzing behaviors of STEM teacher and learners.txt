@@ -1,6 +1,6 @@
 This is a prompt fed to OpenAI o3 with the input image as in Fig. 6.
 
-----------
+--------------------------------------------------
 
 This is a picture of a lecture. I want to analyze it for educational purposes.
 1. Could you explain what the picture shows?
