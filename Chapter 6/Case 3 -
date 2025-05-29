@@ -1,0 +1,102 @@
+This is a prompt fed to OpenAI o3 with the input image as in Fig. 10. Note that the Draw-a-Scientist Checklist is attributed to Finson et al. (1995).
+
+--------------------------------------------------
+
+
+PROMPT FED TO DALL-E 3 (below)
+----------
+"You are an elementary school student. draw a picture of a scientist in a pencil-and-paper style."
+
+
+
+--------------------------------------------------
+
+
+PROMPT FED TO O3 (below)
+----------
+
+The given image of a scientist is from an elementary school student. Analyze it according to the <<<INSTRUCTIONS FOR USE OF THE DAST_CHECKLIST>>> and <<<DRAW-A-SCIENTIST CHECKLIST >>>.
+
+----------
+
+INSTRUCTIONS FOR USE OF THE DAST-CHECKLIST 
+-----
+Each item on the checklist represents one stereotypical image characteristic. The
+items on the checklist have been derived from reviews of literature, primarily the
+work of Chambers (1983) and Mead and Metraux (1957). The "upper" checklist
+items (items #1-7) relate specificlly to those characteristics discussed by Chambers
+(1983) and others’ work and/or items representing stereotypes that have emerged
+(in science education literature, at least) as concerns over the past few years.
+Item #16 is an open-ended item provided for specific details not indicated in items
+#1-15, such as type of scientist (chemist, biologist, etc.), facial expressions, hair
+style, etc. ______
+1. Use one checklist sheet per subject drawing.
+2. Place a maximum of only one mark per blank on the checklist.
+3. If multiple images are present in the drawing (such as two or more scientific
+instruments), count the drawing as having ONE, NOT TWO.
+4. If multiple images of persons appear, such as a group of scientists, mark for
+any and all stereotypical images that are present. (Note: If one member of the
+group is male and one is female, record a mark in the "male gender" blank but
+note the presence of the female in item #16.)
+5^ For item #4, the sub-category blanks for "size" are not counted into the
+checklist score. These subcategorical items are for more detailed analysis of
+the images and do not in and of themselves represent stereotypical images.
+The same applies to subcategory items #4b and #6a.
+6. Any relevant captions (item #7) should be written down in item #16 if room
+doesn’t allow under #7 iteslf.
+7. TOTALS:
+A. Add the number of marks for the upper checklist and record in the box at the
+checklist’s lower left corner. REMEMBER to add ONLY ONE mark per blank.
+B. Add the number of marks for the lower checklist and record in the box at the
+checklist’s lower left corner. REMEMBER to add ONLY ONE mark per blank.
+C. Add the upper and lower checklist scores for the TOTAL SCORE, and record on
+the blank at the bottom right corner.
+8. ANALYSIS:
+A. You may select to use the TOTAL SCORE for analysis purposes or you may
+select to use only the upper (or lower) checklist scores. Use of TOTAL
+SCORE provides for more variance than use of only half scores.
+B. The checklist has been used in a pretest-posttest format with ANCOVA
+procedures. Other analytical procedures will likely work as well.
+C. Report other data (such as those in item #16) as percentages of drawings
+possessing specific images.
+-----
+
+
+
+DRAW-A-SCIENTIST CHECKLIST
+-----
+1. Lab Coat (usually but not necessarily white) ....................
+2. Eyeglasses ...........................................
+3. Facial Growth of Hair (beards, mustaches, abnormally long sideburns) . . .
+4. Symbols of Research (scientific instruments, lab equipment of any kind) .
+a. Size of Scientific Instruments/Equipment in Relation to Scientist:
+1. Small ............................. _____
+2. Normal ............................ _____
+3. Large ............................. _____
+b. Types of Scientific Instruments/Equipment:
+5. Symbols of Knowledge (principally books, filing cabinets, clipboards,
+pens in pockets, etc.) ................................
+6. Technology (the "products" of science) .......................
+a. Types of Technology (tv, telephone, missiles, computers, etc.):
+7. Relevant Captions (formulae, taxonomic classification,
+the "eureka!" syndrome) ...............................
+ALTERNATIVE IMAGES:
+8. Male Gender ..........................................
+9. Caucasian ............................................
+1 0. Indications of Danger ....................................
+1 1. Presence of Light Bulbs ..................................
+12. Mythic Stereotypes (Frankenstein creatures. JekyIl/Hyde figures,
+"Mad/Crazed") .......................................
+13. Indications of Secrecy (signs or warnings of "Private,""Keep Out,"
+"Do Not Enter.""Go Away.""Top Secret," etc.) .................
+14. Scientist Doing Work Indoors ..............................
+1 5. Middle Aged or Elderly Scientist ............................
+NOTE: Several indicators of the same type in a single drawing count as ONE indicator
+(eg. Two scientists each with eyeglasses counts as one, not two).
+1 6. Open Comments (dress items,neckties/necklaces, hair style/grooming, smile or
+frown, stoic expression, bubbling liquids, smoke/steam, type of scientist
+chemist, physicist, etc., etc.):
+UPPER SCORE:
+LOWER SCORE:
+TOTAL SCORE:
+-----
