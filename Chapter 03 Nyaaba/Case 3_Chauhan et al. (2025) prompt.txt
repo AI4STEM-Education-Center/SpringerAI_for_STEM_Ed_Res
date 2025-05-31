@@ -1,0 +1,49 @@
+Case 3: Chauhan et al. (2025) prompt: scenario-based multiple-choice question 
+
+
+“Please develop a scenario-based multiple-choice question designed to evaluate a first-year medical student's understanding of medical physiology, focusing on the [specific topic]. 
+The scenario should reflect a realistic situation relevant to the regional context of [India]. Ensure that the question follows the guidelines for framing the single best scenario based on multiple-choice question.
+Ensure the stem of scenario based multiple choice question should be concise, focused, and provide all necessary information without extraneous details suited to first-year medical students. 
+Include the full form of any abbreviations and the normal range for any laboratory tests mentioned in the scenario.
+The lead-in should be focused on a single themed and unambiguous, ensuring that the student knows exactly what they are being asked. 
+Each scenario based multiple-choice question should have 4-option with a single best answer. Ensure that answer choices do not directly oppose each other. 
+Each option should be distinct but plausible. 
+The question should be of a moderate difficulty for testing the student's ability to apply and analyze their knowledge effectively. Provide the correct answer with an explanation at the end of the question for reference."
+
+
+
+
+___________________________________________________________________________________________
+An adaptable Version for use. 
+Component 1: Task Definition and Scope
+•	Original: “develop a scenario-based multiple-choice question designed to evaluate a first-year medical student’s understanding”
+•	Adaptation Strategy: Modify the educational level (first-year, advanced, graduate) and subject area (physiology, pharmacology, pathology) based on your specific needs
+•	Example Adaptation: “develop a case-based multiple-choice question designed to evaluate a third-year medical student's understanding of clinical pharmacology”
+Component 2: Content Specificity
+•	Original: “focusing on the [specific topic]”
+•	Adaptation Strategy: Replace with your target topic, being as specific as possible
+•	Examples: 
+o	“focusing on cardiac arrhythmias and their electrocardiographic manifestations”
+o	“focusing on respiratory physiology in high-altitude environments”
+o	“focusing on endocrine disorders in pregnancy”
+Component 3: Contextual Relevance
+•	Original: “relevant to the regional context of [India]”
+•	Adaptation Strategy: Specify your geographic or cultural context to ensure appropriate scenarios
+•	Examples: 
+o	“Relevant to the healthcare context of rural sub-Saharan Africa”
+o	“Relevant to urban emergency medicine in North America”
+o	“Relevant to tropical medicine practice in Southeast Asia”
+Component 4: Technical Specifications
+•	Original: "Include the full form of any abbreviations and the normal range for any laboratory tests"
+•	Adaptation Strategy: Add specific technical requirements based on your assessment needs
+•	Extensions: 
+o	“Include relevant diagnostic imaging findings where appropriate”
+o	“Incorporate current clinical guidelines and evidence-based recommendations”
+o	“Ensure all drug dosages and treatment protocols are current and accurate”
+Component 5: Structural Requirements
+•	Original: “4-option with a single best answer”
+•	Adaptation Strategy: Modify based on your preferred question format
+•	Alternatives: 
+o	“5-option with a single best answer for increased difficulty”
+o	“True/False format with detailed justification”
+o	“Multiple response format where more than one option may be correct”
